@@ -1,6 +1,6 @@
-streamlit
-groq
-huggingface_hub
-plotly
-pandas
-Pillow
+streamlit>=1.32.0
+groq>=0.4.2
+huggingface-hub>=0.21.0
+plotly>=5.18.0
+pandas>=2.0.0
+Pillow>=10.0.0
